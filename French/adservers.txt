@@ -3,6 +3,4 @@
 !
 ||mystighty.info^
 ||sohjah-thahka.info^
-||goitcl.com^asd
-
-asdsa
+||goitcl.com^
