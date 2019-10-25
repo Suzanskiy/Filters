@@ -1,4 +1,4 @@
-!
+sd!
 ! Section contains list of advertising networks
 !
 ||mystighty.info^
